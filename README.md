@@ -28,3 +28,5 @@ The diffusion process is split into two main components: the forward diffusion p
 
 This project demonstrates the potential of diffusion models in generating high-quality images from noise, showcasing the capabilities of PyTorch and the DDPM scheduler in creating advanced AI/ML models. The stable diffusion model, with its modified U-Net architecture, provides a robust framework for image generation tasks, offering a glimpse into the future of generative models.
 
+
+-get the weights from https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main
