@@ -4,9 +4,6 @@
 ![AI/ML](https://img.shields.io/badge/AI/ML-000000?style=for-the-badge&logo=ai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-## Overview
-
-This project involves the creation of a stable diffusion model from scratch using PyTorch, leveraging the DDPM (Denoising Diffusion Probabilistic Models) scheduler for efficient and effective image generation. The model is designed to transform noise into coherent images, showcasing the power of diffusion models in generating high-quality, realistic images.
 
 ## Stable Diffusion Model Architecture
 
